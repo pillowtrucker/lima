@@ -11,3 +11,6 @@ tmp_*
 !/open/README
 !/lib/data/config
 !/lib/log/README
+/lib/tmp/
+config.lima
+/lib/trans/tmp/
