@@ -14,3 +14,4 @@ tmp_*
 /lib/tmp/
 config.lima
 /lib/trans/tmp/
+*.o
