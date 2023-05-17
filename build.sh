@@ -12,3 +12,5 @@ cmake ../driver -DPACKAGE_UIDS=OFF
 
 make install
 cd ..
+
+cp config.lima.example config.lima
